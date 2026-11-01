@@ -1,0 +1,6 @@
+*.uasset binary
+*.umap binary
+*.wav binary
+*.ini text eol=crlf
+*.py text eol=lf
+*.md text eol=lf

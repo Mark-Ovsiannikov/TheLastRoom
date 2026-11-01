@@ -1,0 +1,13 @@
+# Generated Unreal files
+**/Binaries/
+**/Intermediate/
+**/Saved/
+**/DerivedDataCache/
+**/Build/
+.vs/
+*.sln
+*.suo
+*.pdb
+# Playable builds are distributed through GitHub Releases
+WindowsBuild*/
+*.zip

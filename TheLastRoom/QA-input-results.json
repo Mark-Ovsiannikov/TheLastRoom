@@ -1,0 +1,74 @@
+[
+  {
+    "test": "Start menu shown",
+    "passed": true
+  },
+  {
+    "test": "Left mouse starts game",
+    "passed": true
+  },
+  {
+    "test": "W moves forward",
+    "passed": true
+  },
+  {
+    "test": "S moves backward",
+    "passed": true
+  },
+  {
+    "test": "D moves right",
+    "passed": true
+  },
+  {
+    "test": "A moves left",
+    "passed": true
+  },
+  {
+    "test": "Mouse X rotates camera",
+    "passed": true
+  },
+  {
+    "test": "Mouse Y tilts camera",
+    "passed": true
+  },
+  {
+    "test": "Space jumps",
+    "passed": true
+  },
+  {
+    "test": "Note is traced",
+    "passed": true
+  },
+  {
+    "test": "E reads note",
+    "passed": true
+  },
+  {
+    "test": "Escape closes note",
+    "passed": true
+  },
+  {
+    "test": "Panel is traced",
+    "passed": true
+  },
+  {
+    "test": "E opens keypad",
+    "passed": true
+  },
+  {
+    "test": "Number keys enter 0825",
+    "passed": true
+  },
+  {
+    "test": "Enter unlocks exit",
+    "passed": true
+  },
+  {
+    "test": "Door animates after keyboard code",
+    "passed": true
+  },
+  {
+    "test": "R restarts game",
+    "passed": true
+  }
+]

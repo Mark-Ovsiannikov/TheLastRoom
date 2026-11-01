@@ -1,0 +1,66 @@
+[
+  {
+    "test": "Initial modal",
+    "passed": true
+  },
+  {
+    "test": "Start game",
+    "passed": true
+  },
+  {
+    "test": "Trace note within reach",
+    "passed": true
+  },
+  {
+    "test": "Read note",
+    "passed": true
+  },
+  {
+    "test": "Close inspection",
+    "passed": true
+  },
+  {
+    "test": "Read book",
+    "passed": true
+  },
+  {
+    "test": "Inspect clock",
+    "passed": true
+  },
+  {
+    "test": "Open keypad",
+    "passed": true
+  },
+  {
+    "test": "Append four digits",
+    "passed": true
+  },
+  {
+    "test": "Maximum four digits",
+    "passed": true
+  },
+  {
+    "test": "Reject wrong code",
+    "passed": true
+  },
+  {
+    "test": "Clear wrong attempt",
+    "passed": true
+  },
+  {
+    "test": "Accept correct code",
+    "passed": true
+  },
+  {
+    "test": "Completion message",
+    "passed": true
+  },
+  {
+    "test": "Door opening animation",
+    "passed": true
+  },
+  {
+    "test": "Restart clears progress",
+    "passed": true
+  }
+]
